@@ -1,6 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/cjjfrxhkaawgm1ab?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-testing-card-validator)
 
-[GitHub Pages](https://evgeniy-27.github.io/ahj-testing_card_validator/)
 
 ### Credit Card Validator
 
