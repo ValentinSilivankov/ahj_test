@@ -1,6 +1,9 @@
-
-
 ### Credit Card Validator
+
+[![Build status](https://ci.appveyor.com/api/projects/status/bkvukhcnuacmiu2n?svg=true)](https://ci.appveyor.com/project/ValentinSilivankov/ahj-test)
+
+
+[Github Pages](https://valentinsilivankov.github.io/ahj_test/)
 
 #### Легенда
 
